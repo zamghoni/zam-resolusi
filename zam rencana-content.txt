@@ -4,10 +4,11 @@ RENCANA KONTEN ZAM
   * Belajar Git
   * Praktek Git
 - Javascript
-  * Framework
-   ^ Angular
+ * Framework Javascript
+   ^ Vue
    ^ React
 - PHP Framework
-   ^ Laravel
+ ^ Laravel
 - Interview
 - Vlog
+- Python
