@@ -1,0 +1,7 @@
+RENCANA KONTEN ZAM
+
+- Git/Github
+- Javascript
+- PHP Framework
+- Interview
+- Vlog
