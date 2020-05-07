@@ -3,7 +3,6 @@ RENCANA KONTEN ZAM
 - Git/Github
   * Belajar Git
   * Praktek Git
-- Struktur Data Dasar
 - Javascript
  * Framework Javascript
    ^ Vue
