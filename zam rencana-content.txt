@@ -5,6 +5,10 @@ RENCANA KONTEN ZAM
   * Praktek Git
 - Struktur Data Dasar
 - Javascript
+ * Framework Javascript
+   ^ Vue
 - PHP Framework
+ ^ Laravel
 - Interview
 - Vlog
+- Python
