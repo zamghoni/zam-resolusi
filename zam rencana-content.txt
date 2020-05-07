@@ -1,6 +1,8 @@
 RENCANA KONTEN ZAM
 
 - Git/Github
+  * Belajar Git
+  * Praktek Git
 - Javascript
 - PHP Framework
 - Interview
