@@ -2,5 +2,5 @@ ZAM RESOLUSI
 - konsisten belajar student code
 - konsisten mengerjakan tugas akhir
 - menyelesaikan projek pimpinan daerah pemuda muhammadiyah tegal
-- belajar laravel
 - implementasikan laravel ke projek
+- menambah projek
